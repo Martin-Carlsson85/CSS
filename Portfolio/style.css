@@ -133,6 +133,7 @@ html {
   align-self: center;
   justify-self: center;
   opacity: 0.5;
+  position: relative;
 }
 
 .circle-1 {
