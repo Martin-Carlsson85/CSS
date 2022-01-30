@@ -1,0 +1,2 @@
+icons 8 - alla möjliga ikoner
+superslides - tredjepartsprogram som gör så att bakgrunden ändras för att få sidorna att "slida" åt höger eller vänster 
